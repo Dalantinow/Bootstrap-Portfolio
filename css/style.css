@@ -1,0 +1,30 @@
+body {
+    background-image: url("../images/prism.png");
+    background-repeat: repeat;
+    height: 100%;
+}
+h1 {
+    font-family: 'Georgia', 'Times New Roman', Times, serif;
+    font-size: 50px;
+    
+}
+.container {
+    background-color: white;
+    min-height: 1500px;
+}
+h3  {
+    position: absolute;
+    bottom: 20px;
+    padding: 15px;
+    margin-bottom: 0;
+    text-align: center;
+    line-height: 30px;
+    color: #ffffff;
+    background: #4aaaa5;
+    border-bottom: 0;
+  }
+.navbar {
+    border-top: 8px solid #4aaaa5;
+    border-bottom: solid;
+    border-bottom-color: #cccccc;
+}
